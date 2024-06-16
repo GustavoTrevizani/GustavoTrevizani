@@ -1,6 +1,6 @@
 👋 Olá! Eu sou o Gustavo Trevizani!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTrevizani&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTrevizani&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
