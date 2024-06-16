@@ -1,7 +1,6 @@
 👋 Olá! Eu sou o Gustavo Trevizani!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTrevizani&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTrevizani&show_icons=true&theme=transparent)
+![GustavoTrevizani's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTrevizani&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrevizani&layout=compact)
 
 <div style="display: inline_block"><br>
