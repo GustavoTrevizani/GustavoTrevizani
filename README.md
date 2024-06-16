@@ -1,10 +1,6 @@
 👋 Olá! Eu sou o Gustavo Trevizani!
 
-<div style="width: 200px;">
-<a href="https://github.com/GustavoTrevizani/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrevizani&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTrevizani&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
